@@ -82,11 +82,15 @@ Github extends markdown to have a list where you can check off items. <sup>[1]<s
 ![pipe key](assets/pipe key.png)
 
 ## Step 6 - Take screenshots rather than phone photos. 
-- Don't upload photos that you have taken with your phone as you can't see properly or copy
-
+- Don't upload photos that you have taken with your phone because you can't see it properly or copy
+- When you can always provide a codeblock. 
 
 ![Screenshot code ](https://github.com/IntheLoops/github-docs/assets/145233629/d51192e5-75f6-44fe-a347-aa97d6543862)
 
+## Linking to another file on Github 
+- create folder with file and use []()
+
+[Markdown Overview].(Overview/Markdown.md).
 
 - To add links copy and paste the url. Put a friendly name into square braces and keep url in parenthesis.
   
