@@ -66,16 +66,26 @@ Github extends markdown to have a list where you can check off items. <sup>[1]<s
 - [ ] Finish step 2
 - [ ] Finish step 3
 
-## Step 4 - Using emojis in Github Flavored Markdown (GFM) 
+## Step 3 - Using emojis in Github Flavored Markdown (GFM) 
 - GFM suports emoji shortcodes
   
-## Step 5 - How to create a table 
+## Step 4 - How to create a table 
 | Name | bar | emoji |
 | --- | --- | --- |
 | cloud | `:cloud:` | ☁️
 | smile | `:smile:` | 😄
 | thumbs up | `thumbsup:` | 👎
 - Refer to the cheat sheet below <sup>[2]<sup/>
+
+## Step 5 - Adding assets direct to Github means you can share and link direct from a folder on here. 
+- use the image format ! []()
+![pipe key](assets/pipe key.png)
+
+## Step 6 - Take screenshots rather than phone photos. 
+- Don't upload photos that you have taken with your phone as you can't see properly or copy
+
+
+![Screenshot code ](https://github.com/IntheLoops/github-docs/assets/145233629/d51192e5-75f6-44fe-a347-aa97d6543862)
 
 
 - To add links copy and paste the url. Put a friendly name into square braces and keep url in parenthesis.
