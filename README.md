@@ -90,7 +90,7 @@ Github extends markdown to have a list where you can check off items. <sup>[1]<s
 ## Linking to another file on Github 
 - create folder with file and use []()
 
-[Markdown Overview].(Overview/Markdown.md).
+[Markdown Overview].(github-docs/Overview/Markdown.md).
 
 - To add links copy and paste the url. Put a friendly name into square braces and keep url in parenthesis.
   
